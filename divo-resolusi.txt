@@ -2,3 +2,5 @@ DIVO RESOLUSI
   - Konsisten belajar coding minimal sekali sehari
   - Menjadi jago dalam programming
   - Menjadi jago dalam design website
+  - Menguasai Git & GitHub
+  - Memperluas networking
